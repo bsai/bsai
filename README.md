@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack + AI Integration | MERN | Next.js | AWS Microservices | Playwrite Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+%26+Microservices+Expert;AI+%26+GenAI+Integration;Secure+%26+Scalable+Systems;DevOps+%7C+CI%2FCD+%7C+Automation;Always+Learning+%26+Innovating+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AWS+Microservices+Expert;+AI+Integration;Secure+%26+Scalable+Systems;DevOps+%7C+CI%2FCD+%7C+Automation;+🚀" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/saidulu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@email.com">
