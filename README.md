@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badanaboina Saidulu</h1>
-<h3 align="center">🚀 Full-Stack + AI Developer | MERN | Next.js | Cloud & DevOps | GenAI & Automation</h3>
+<h3 align="center">🚀 Full-Stack + AI Integration | MERN | Next.js | AWS Microservices | Playwrite Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+%26+Microservices+Expert;AI+%26+GenAI+Integration;Secure+%26+Scalable+Systems;DevOps+%7C+CI%2FCD+%7C+Automation;Always+Learning+%26+Innovating+🚀" />
@@ -53,7 +53,7 @@
 
 ### 🚀 Featured Projects  
 
-- **RM Workbench** – GenAI-powered Relationship Manager platform with **speech-to-text summaries** & **calendar sync**.  
+- **RM Workbench** – Relationship Manager platform with **speech-to-text summaries** & **calendar sync**.  
 - **Anthem Blockchain Framework (ABF)** – AWS-based blockchain platform with **Lambda, S3, Step Functions, EventBridge**.  
 - **RFI Engine** – Automated request-for-information workflows for multiple business scenarios.  
 - **Hybrid Mobile Apps** – Cross-platform (iOS/Android/Web) with React for **faster user experiences**.  
